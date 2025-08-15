@@ -125,3 +125,6 @@ File hasil build akan tersimpan di folder `dist/`.
 
 ISC License
 "# Aplikasi-CRUD-Pengguna" 
+
+## Link Demo
+ https://naufalzakiamr.github.io/my-crud-app/
