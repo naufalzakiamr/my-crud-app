@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://naufalzakiamr.github.io/Aplikasi-CRUD-Pengguna",
+  "homepage": "homepage": "https://naufalzakiamr.github.io/my-crud-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
